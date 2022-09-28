@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/btcn01-gomoku/static/css/main.286d6e82.css",
+    "main.js": "/btcn01-gomoku/static/js/main.219f6a64.js",
+    "index.html": "/btcn01-gomoku/index.html",
+    "main.286d6e82.css.map": "/btcn01-gomoku/static/css/main.286d6e82.css.map",
+    "main.219f6a64.js.map": "/btcn01-gomoku/static/js/main.219f6a64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.286d6e82.css",
+    "static/js/main.219f6a64.js"
+  ]
+}
